@@ -1,0 +1,477 @@
+ 
+/* Laptops, Desktops, Larger Screens */
+
+
+
+ @media only screen and (min-width: 1366px) {
+    #title{
+        background-color: #ff4c68;
+        width: 100%;
+      }
+    
+      #navbarNav {
+        padding-left: 650px;
+    }
+    
+    .nav-item {
+        padding: 0 18px;
+    }
+    
+    .nav-link {
+        font-size: 1.2rem;
+        font-family: "Montserrat-light";
+        color: black;
+    }
+    
+    .intro{
+        padding-top: 100px;
+        font-family: 'Montserrat, sans-serif';  
+        font-size: 3rem;  
+        line-height: 1.5;  
+        font-weight: 900;
+        color: #fff;
+    } 
+    #vitap-logo{
+        padding-left: 50px;
+        width: 300px;
+        max-height: 200px;
+    } 
+    .image{
+        padding-left: 650px;
+        padding-top: 20px;
+    }
+    #intro-img{
+        position: relative;
+        left: 500px;
+        width: 450px;
+        height: 450px
+    }
+    #field{
+        padding: 8% 15%;
+    }
+    .icon{
+    
+        width: 212px;
+        height: 212px;
+    }
+    .MachineVision{
+        padding-left: 150px;
+    }
+    .MachineIntelligence{
+        padding-left: 150px;
+    }
+    #Projects{
+    
+        background-color: #ef8172;
+        line-height: 1.5rem;
+        color: #fff;
+        text-align: center;
+      
+      }
+      .carousel-item{
+        padding: 7% 15%;
+      }
+      .Projects-image{
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+      }
+      #heading{
+        position: relative;
+        left: -600px;
+        padding-top: 100px;
+      }
+    .mem-sub{
+        padding-left: 50px;
+    }
+    #footer{
+        background-color:  #ef8172;
+        text-align: center;
+        padding: 7% 15%;
+      }
+
+     h3{
+        padding-left: 50px;
+     } 
+  }
+
+
+/* Tablets (landscape) */
+
+  @media only screen and (min-width: 1024px) and (max-width: 1367px) and (min-height: 768px) {
+
+    #title{
+        background-color: #ff4c68;
+        width: 110%;
+      }
+    
+      #navbarNav {
+        padding-left: 650px;
+    }
+    
+    .nav-item{
+        padding: 0 18px;
+    }
+    .nav-link{
+        font-size: 1.2rem;
+        font-family: "Montserrat-light";
+        color: black;
+      }
+    .intro{
+        padding-top: 100px;
+        font-family: 'Montserrat, sans-serif';  
+        font-size: 3rem;  
+        line-height: 1.5;  
+        font-weight: 900;
+        color: #fff;
+    } 
+    #vitap-logo{
+        padding-left: 50px;
+        width: 300px;
+        max-height: 200px;
+    } 
+    .image{
+        padding-left: 650px;
+        padding-top: 20px;
+    }
+    #intro-img{
+        position: relative;
+        left: 300px;
+        width: 650px;
+        height: 450px
+    }
+    #field{
+        padding: 8% 15%;
+    }
+    .icon{
+    
+        width: 212px;
+        height: 212px;
+    }
+    .MachineVision{
+        padding-left: 200px;
+    }
+    .MachineIntelligence{
+        padding-left: 200px;
+    }
+    #Projects{
+    
+        background-color: #ef8172;
+        line-height: 1.5rem;
+        color: #fff;
+        text-align: center;
+        width: 110%;
+      
+      }
+      .carousel-item{
+        padding: 7% 15%;
+      }
+      .Projects-image{
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+      }
+      #heading{
+        position: relative;
+        left: -600px;
+        padding-top: 100px;
+      }
+    .mem-sub{
+        padding-left: 90px;
+    }
+    #footer{
+        background-color:  #ef8172;
+        text-align: center;
+        padding: 7% 15%;
+        width: 110%;
+      }
+     h3{
+        padding-left: 50px;
+     }  
+}
+
+/* Tablets (portrait) */
+@media only screen and (min-width: 768px) and (max-width: 1025px) and (min-height: 1366px) {
+
+        #title{
+            background-color: #ff4c68;
+            width: 150%;
+          }
+        
+          #navbarNav {
+            padding-left: 650px;
+        }
+        
+        .nav-item{
+            padding: 0 18px;
+        }
+        .nav-link{
+            font-size: 1.2rem;
+            font-family: "Montserrat-light";
+            color: black;
+          }
+        .intro{
+            padding-top: 100px;
+            font-family: 'Montserrat, sans-serif';  
+            font-size: 3rem;  
+            line-height: 1.5;  
+            font-weight: 900;
+            color: #fff;
+        } 
+        #vitap-logo{
+            padding-left: 50px;
+            width: 300px;
+            max-height: 200px;
+        } 
+        .image{
+            padding-left: 650px;
+            padding-top: 20px;
+        }
+        #intro-img{
+            position: relative;
+            left: 300px;
+            width: 650px;
+            height: 450px
+        }
+        #field{
+            padding: 8% 15%;
+        }
+        .icon{
+        
+            width: 212px;
+            height: 212px;
+        }
+        .MachineVision{
+            padding-left: 200px;
+        }
+        .MachineIntelligence{
+            padding-left: 200px;
+        }
+        #Projects{
+        
+            background-color: #ef8172;
+            line-height: 1.5rem;
+            color: #fff;
+            text-align: center;
+            width: 150%;
+          
+          }
+          .carousel-item{
+            padding: 7% 15%;
+          }
+          .Projects-image{
+            width: 10%;
+            border-radius: 100%;
+            margin: 20px;
+          }
+          #heading{
+            position: relative;
+            left: -600px;
+            padding-top: 100px;
+          }
+        .mem-sub{
+            padding-left: 90px;
+        }
+        #footer{
+            background-color:  #ef8172;
+            text-align: center;
+            padding: 7% 15%;
+            width: 150%;
+          }
+         h3{
+            padding-left: 50px;
+         }  
+  }
+
+
+  /* Large phones or small tablets (landscape) */
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1366px) and (min-height: 768px) and (max-height: 1024px) {
+    #title{
+        background-color: #ff4c68;
+        width: 150%;
+      }
+    
+      #navbarNav {
+        padding-left: 650px;
+    }
+    
+    .nav-item{
+        padding: 0 18px;
+    }
+    .nav-link{
+        font-size: 1.2rem;
+        font-family: "Montserrat-light";
+        color: black;
+      }
+    .intro{
+        padding-top: 100px;
+        font-family: 'Montserrat, sans-serif';  
+        font-size: 3rem;  
+        line-height: 1.5;  
+        font-weight: 900;
+        color: #fff;
+    } 
+    #vitap-logo{
+        padding-left: 50px;
+        width: 300px;
+        max-height: 200px;
+    } 
+    .image{
+        padding-left: 650px;
+        padding-top: 20px;
+    }
+    #intro-img{
+        position: relative;
+        left: 300px;
+        width: 650px;
+        height: 450px
+    }
+    #field{
+        padding: 8% 15%;
+    }
+    .icon{
+    
+        width: 212px;
+        height: 212px;
+    }
+    .MachineVision{
+        padding-left: 250px;
+    }
+    .MachineIntelligence{
+        padding-left: 250px;
+    }
+    #Projects{
+    
+        background-color: #ef8172;
+        line-height: 1.5rem;
+        color: #fff;
+        text-align: center;
+        width: 150%;
+      
+      }
+      .carousel-item{
+        padding: 7% 15%;
+      }
+      .Projects-image{
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+      }
+      #heading{
+        position: relative;
+        left: -600px;
+        padding-top: 100px;
+      }
+    .mem-sub{
+        padding-left: 90px;
+    }
+    #footer{
+        background-color:  #ef8172;
+        text-align: center;
+        padding: 7% 15%;
+        width: 150%;
+      }
+     h3{
+        padding-left: 50px;
+     }  
+  }
+
+  /* Medium phones (portrait) */
+
+
+@media only screen and (min-width: 375px) and (max-width: 667px) and (min-height: 568px) and (max-height: 812px) {
+    
+    #title{
+        background-color: #ff4c68;
+        width: 150%;
+      }
+    
+      #navbarNav{
+        padding-left: 650px;
+    }
+    
+    .nav-item{
+        padding: 0 18px;
+    }
+    .nav-link{
+        font-size: 1.2rem;
+        font-family: "Montserrat-light";
+        color: black;
+      }
+    .intro{
+        padding-top: 100px;
+        font-family: 'Montserrat, sans-serif';  
+        font-size: 3rem;  
+        line-height: 1.5;  
+        font-weight: 900;
+        color: #fff;
+    } 
+    #vitap-logo{
+        padding-left: 50px;
+        width: 300px;
+        max-height: 200px;
+    } 
+    .image{
+        padding-left: 650px;
+        padding-top: 20px;
+    }
+    #intro-img{
+        position: relative;
+        left: 300px;
+        width: 650px;
+        height: 450px
+    }
+    #field{
+        padding: 8% 15%;
+    }
+    .icon{
+    
+        width: 212px;
+        height: 212px;
+    }
+    .MachineVision{
+        padding-left: 250px;
+    }
+    .MachineIntelligence{
+        padding-left: 250px;
+    }
+    #Projects{
+    
+        background-color: #ef8172;
+        line-height: 1.5rem;
+        color: #fff;
+        text-align: center;
+        width: 150%;
+      
+      }
+      .carousel-item{
+        padding: 7% 15%;
+      }
+      .Projects-image{
+        width: 10%;
+        border-radius: 100%;
+        margin: 20px;
+      }
+      #heading{
+        position: relative;
+        left: -600px;
+        padding-top: 100px;
+      }
+    .mem-sub{
+        padding-left: 90px;
+    }
+    #footer{
+        background-color:  #ef8172;
+        text-align: center;
+        padding: 7% 15%;
+        width: 150%;
+      }
+     h3{
+        padding-left: 50px;
+     }  
+
+
+  }
+
